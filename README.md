@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Eduxcode
+## Olá! Eu sou o Davi Soares
 
 - 🌱 Atualmente estou aprendendo: Cibersegurança, Pentester, Defesa cibernética.
 
