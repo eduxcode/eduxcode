@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou aprendendo: Cibersegurança, Pentester, Defesa cibernética.
 
-- 💬 Pergunte-me algo sobre: Segurança, Linux, Redes, Hacking,etc.
 <div>
 <a href="https://github.com/eduxcode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=vue-dark&show_icons=true">
