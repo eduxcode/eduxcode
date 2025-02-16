@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Davi Soares
 
-- 🌱 Atualmente estou aprendendo: Cibersegurança, Pentester, Defesa cibernética.
+- 🌱 Atualmente estou aprendendo: Cibersegurança, DevSecOps, Cloud...
 
 <div>
 <a href="https://github.com/eduxcode">
