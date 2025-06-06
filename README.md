@@ -4,10 +4,10 @@
 
 <div>
 <a href="https://github.com/eduxcode">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=dark&show_icons=true"> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=chartreuse-dark&show_icons=true"> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduxcode&layout=compact&theme=dark">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduxcode&repo=skills-secure-repository-supply-chain&theme=chartreuse-dark" />
+ <!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduxcode&repo=skills-secure-repository-supply-chain&theme=chartreuse-dark" /> -->
 
 </div>
 
