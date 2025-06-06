@@ -1,6 +1,6 @@
-## Olá! Eu sou o Davi Soares
+## Hello! I'm Davi Soares
 
-- 🌱 Atualmente estou aprendendo: Cibersegurança, DevSecOps, Cloud...
+- 🌱 I am currently learning: Cybersecurity, DevSecOps, Cloud...
 
 <div>
 <a href="https://github.com/eduxcode">
