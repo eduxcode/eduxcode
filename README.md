@@ -19,7 +19,6 @@
   <img align="center" alt="Edu-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 -->
----
 
 ### 📫 Contact
 
