@@ -4,12 +4,12 @@
 
 <div>
 <a href="https://github.com/eduxcode">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=dark&show_icons=true">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=dark&show_icons=true"> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduxcode&layout=compact&theme=dark">
 </div>
 
   ---
-
+<!--
 ### 🛠️ Technologies
 
 <div style="display: flex;">
@@ -18,7 +18,7 @@
   <img align="center" alt="Edu-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Edu-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-
+-->
 ---
 
 ### 📫 Contact
