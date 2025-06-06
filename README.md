@@ -4,10 +4,12 @@
 
 <div>
 <a href="https://github.com/eduxcode">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=vue-dark&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduxcode&theme=dark&show_icons=true">
 </div>
 
   <div style="display: inline_block"><br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduxcode&layout=compact)
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Edu-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
