@@ -9,22 +9,24 @@
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 
-## Hi there 👋
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Wave" />
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
 - 🛡️ I’m currently learning: **Cybersecurity | Development | AI**
 - 🌱 Passionate about **Bug Hunting**, **Security Research**, and **Forensics**
 
----
 
 <details>
-  <summary>📖 More about me</summary>
+  <summary>More about me</summary>
 
 - **Name**: Edu 
 - **From**: Brazil BR  
 - 🕵️ Bug Hunter | Security Researcher | Forensics Analyst  
 - 🔥 Offensive & Defensive Security techniques.
 </details>
+
 
 ---
 
