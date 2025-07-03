@@ -26,7 +26,7 @@
 - 🕵️ Bug Hunter | Security Researcher | Forensics Analyst  
 - 🔥 Offensive & Defensive Security techniques.
 </details>
-
+<br>
 
 ---
 
