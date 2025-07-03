@@ -44,7 +44,6 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
@@ -63,10 +62,13 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduxcode&theme=chartreuse-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/eduxcode/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduxcode&layout=compact&theme=chartreuse-dark" alt="Top Languages">
-</div>
+
+<br><br>
+
 
 ---
 <!--
