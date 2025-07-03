@@ -23,8 +23,8 @@
 
 - **Name**: Edu 
 - **From**: Brazil BR  
-- 🕵️ Bug Hunter | Security Researcher | Forensics Analyst  
-- 🔥 Offensive & Defensive Security techniques.
+- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
+- Offensive & Defensive Security techniques.
 </details>
 <br>
 
@@ -64,7 +64,7 @@
 
 ---
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>GitHub Stats</h2>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduxcode&theme=chartreuse-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/eduxcode/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduxcode&layout=compact&theme=chartreuse-dark" alt="Top Languages">
