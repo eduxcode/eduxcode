@@ -21,7 +21,7 @@
 <details>
   <summary>More about me</summary>
 
-- **Name**: Edu 
+- **Name**: Davi Soares
 - **From**: Brazil BR  
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - Offensive & Defensive Security techniques.
