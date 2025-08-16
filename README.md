@@ -23,7 +23,7 @@
 
 - **Name**: Davi Soares
 - **From**: Brazil BR  
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
+- **DevSecOps** | **Security Researcher** | **forensics Analyst**
 - Offensive & Defensive Security techniques.
 </details>
 <br>
