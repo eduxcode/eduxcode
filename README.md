@@ -15,7 +15,7 @@
 </h2>
 
 - 🛡 I’m currently learning: **Cybersecurity | Development | AI**
-- Passionate about **Bug Hunting**, **Security Research**, and **Forensics**
+- Passionate about **DevSecOps**, **Security Research**, and **Forensics**
 
 
 <details>
@@ -23,7 +23,7 @@
 
 - **Name**: Davi Soares
 - **From**: Brazil BR  
-- **DevSecOps** | **Security Researcher** | **forensics Analyst**
+- **DevSecOps** | **Security Researcher** | **Forensics Analyst**
 - Offensive & Defensive Security techniques.
 </details>
 <br>
