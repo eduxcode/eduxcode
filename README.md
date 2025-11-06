@@ -21,7 +21,7 @@
   <summary>More about me</summary>
 
 - **Name**: Davi Soares
-- **From**: Brazil BR  
+- **From**: Brazil 
 - **DevSecOps** | **Security Researcher** | **Forensics Analyst**
 - Offensive & Defensive Security techniques.
 </details>
