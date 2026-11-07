@@ -17,7 +17,7 @@
 -->
 
 - I’m currently learning: **Cybersecurity | Development | AI**
-- Passionate about **DevSecOps**, **Security Research**, and **Forensics**
+- Passionate about **DevSecOps**, **Ethical Hacking**, and **Security Research**
 
 
 <details>
@@ -25,7 +25,7 @@
 
 - **Name**: Davi Soares
 - **From**: Brazil 
-- **DevSecOps** | **Security Researcher** | **Forensics Analyst**
+- **DevSecOps** | **Pentest** | **Security Researcher**
 - Offensive & Defensive Security techniques.
 </details>
 <br>
