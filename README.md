@@ -60,6 +60,28 @@
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logoColor=white" alt="Nuclei" />
+      <img src="https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logoColor=white" alt="Subfinder" />
+      <img src="https://img.shields.io/badge/Httpx-000000?style=for-the-badge&logoColor=white" alt="Httpx" />
+      <img src="https://img.shields.io/badge/Naabu-000000?style=for-the-badge&logoColor=white" alt="Naabu" />
+      <img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logoColor=white" alt="Amass" />
+      <img src="https://img.shields.io/badge/DNSx-000000?style=for-the-badge&logoColor=white" alt="DNSx" />
+      <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white" alt="ffuf" />
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+      <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white" alt="SQLmap" />
+      <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+      <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logoColor=white" alt="Gobuster" />
+      <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logoColor=white" alt="Nikto" />
+      <img src="https://img.shields.io/badge/Semgrep-000000?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep" />
+      <img src="https://img.shields.io/badge/Trivy-000000?style=for-the-badge&logoColor=white" alt="Trivy" />
+      <img src="https://img.shields.io/badge/Gitleaks-000000?style=for-the-badge&logoColor=white" alt="Gitleaks" />
+      <img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+      <img src="https://img.shields.io/badge/Checkov-000000?style=for-the-badge&logoColor=white" alt="Checkov" />
+      <img src="https://img.shields.io/badge/Dependency--Check-000000?style=for-the-badge&logoColor=white" alt="OWASP Dependency-Check" />
+      <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=white" alt="Netcat" />
+      <img src="https://img.shields.io/badge/OpenSSL-000000?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" />
+      <img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+
   </div>
 </div>
 
