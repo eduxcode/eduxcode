@@ -59,7 +59,6 @@
       <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logoColor=white" alt="Nuclei" />
       <img src="https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logoColor=white" alt="Subfinder" />
       <img src="https://img.shields.io/badge/Httpx-000000?style=for-the-badge&logoColor=white" alt="Httpx" />
