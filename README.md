@@ -16,7 +16,7 @@
 
 -->
 
-- I’m currently learning: **Cybersecurity | Development | AI**
+- I’m currently learning: **Cybersecurity | Hacking | AI**
 - Passionate about **DevSecOps**, **Ethical Hacking**, and **Security Research**
 
 
